@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "parallel-transform": "^1.2.0",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "split": "^1.0.1"
   }
