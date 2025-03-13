@@ -19,7 +19,7 @@
     "consul": "^0.37.0",
     "forever": "^2.0.0",
     "http-proxy": "^1.18.0",
-    "portfinder": "^1.0.25"
+    "portfinder": "^1.0.34"
   },
   "devDependencies": {
     "autocannon": "^4.6.0"
