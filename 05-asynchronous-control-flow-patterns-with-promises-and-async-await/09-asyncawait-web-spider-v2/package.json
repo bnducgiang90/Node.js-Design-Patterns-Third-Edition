@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0",
     "mkdirp": "^0.5.1",
-    "request-promise-native": "^1.0.8",
+    "request-promise-native": "^1.0.9",
     "request": "^2.88.0",
     "slug": "^1.1.0"
   }
